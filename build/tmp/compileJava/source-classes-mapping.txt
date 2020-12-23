@@ -1,0 +1,16 @@
+controllers/HomeController.java
+ controllers.HomeController
+model/service/SmartPhoneService.java
+ model.service.SmartPhoneService
+model/entities/Smartphone.java
+ model.entities.Smartphone
+model/service/SmartPhoneServiceImpl.java
+ model.service.SmartPhoneServiceImpl
+model/repository/SmartphoneRepository.java
+ model.repository.SmartphoneRepository
+config/ApplicationInitializer.java
+ config.ApplicationInitializer
+config/ApplicationConfig.java
+ config.ApplicationConfig
+controllers/SmartphoneController.java
+ controllers.SmartphoneController
